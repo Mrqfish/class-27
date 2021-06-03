@@ -1,2 +1,2 @@
-# class-27
-constraints body's 
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
